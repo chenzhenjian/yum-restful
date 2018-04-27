@@ -101,10 +101,8 @@ yum-restful
 <br>
 
 **如何交流、反馈、参与贡献？** 
-- 项目主页：http://www.renren.io/open/
-- oschina仓库：https://gitee.com/babaio/renren-security
-- github仓库：https://github.com/renrenio/renren-security
-- 官方QQ群：324780204、145799952
+https://github.com/chenzhenjian/yum-restful.git
+- 官方QQ群：
 <br>
 
 **接口文档效果图：** 
@@ -112,21 +110,3 @@ yum-restful
 
 <br>
 
-**Layui主题风格：**
-![输入图片说明](http://cdn.renren.io/img/1013aa91fe8542b7b05d82bc9444433a "在这里输入图片标题")
-
-<br>
-
-**AdminLTE主题风格：**
-![输入图片说明](http://cdn.renren.io/img/f9762bc6574545ce908e271995efcf1c "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/a1b8bf1ea3db4844a8652a9cf84048cc "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/e542060605f94b3ebec699b0afffc22d "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/c94be5b4bf0d4387b18e119c91b1a986 "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/ae8c683a01c74d8dbc52d62547efda31 "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/ca38bcf3717c427d82dd67d86b744e18 "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/4862ec46a9ad469b90c30788c4707e35 "在这里输入图片标题")
-![输入图片说明](http://cdn.renren.io/img/5d8e7243d30a4421b90f15394b6d1ccd "在这里输入图片标题")
-
-<br>
-
-![捐赠](http://cdn.renren.io/donate.jpg "捐赠") 
