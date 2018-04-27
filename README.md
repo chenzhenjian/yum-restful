@@ -1,11 +1,12 @@
 **项目说明** 
 - 采用SpringBoot、MyBatis、dubbo框架，RESTFUL接口，自定义的功能级权限系统，极低门槛，拿来即用。设计之初，设计之初就为了前后端分离和分布式，方便扩展高效。
 - 提供了代码生成器，只需编写30%左右代码，其余的代码交给系统自动生成，可快速完成开发任务
-- 配套前端代码地址：
+- 配套前端代码地址：https://github.com/chenzhenjian/yum-vue.git
 <br>
 
 **具有如下特点** 
 - 前后端分离，页面交互使用Vue2.x，极大的提高了开发效率
+- restful风格，一套接口供多种客户端调用，极大降低开发成本。
 - dubbo作为中间件实现微服务
 - 灵活的权限控制，可控制到页面或按钮，满足绝大部分的权限需求
 - 完善的部门管理及数据权限，通过注解实现数据权限的控制
@@ -86,7 +87,7 @@ yum-restful
 - 本地开启redis，开启zookeeper
 - Eclipse、IDEA运行ServiceAdminApplication.java，则可启动服务提供者
 - Eclipse、IDEA运行ApiAdminApplication.java,则可启动服务消费者，同时开启对外接口http://localhost:8080
-- 通过git下载前端源码：
+- 通过git下载前端源码：https://github.com/chenzhenjian/yum-vue.git
 - 使用vscode、webstorm打开项目，在terminal运行npm install，npm run dev
 - 浏览器访问 http://localhost:8081
 - 账号密码：admin/admin
